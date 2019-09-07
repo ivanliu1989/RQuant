@@ -1,0 +1,13 @@
+.Rproj.user
+.Rhistory
+.RData
+*.csv
+*.rda
+*.xlsx
+*.txt
+*.png
+packrat/lib*/
+*.log
+*.RData
+*.jpg
+.httr-oauth
